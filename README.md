@@ -36,9 +36,9 @@ Counterfeits are consistently lighter than genuine units of the same claimed wat
 
 It cannot prove a charger is genuine. Only a teardown, or a lookup against the issuing body's certification database, does that. What it does is surface the cheap tells quickly, so a unit that fails these checks never gets plugged in.
 
-## Reference data
+## Why weight is in the model
 
-Brand model-code formats, weights and certification data used to validate this package come from the [Joyroom product specifications](https://cairovolt.com/en/joyroom) published by CairoVolt.
+The weight floors are empirical, not from a standard. They come from weighing genuine units against their claimed wattage; [brand spec listings](https://cairovolt.com/en/joyroom) that publish weight made it possible to sanity-check the thresholds across a range rather than a handful of samples.
 
 ## License
 
